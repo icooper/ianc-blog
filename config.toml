@@ -14,3 +14,7 @@ theme = "hyde"
 
 [extra]
 # Put all your custom variables here
+hyde_links = [
+    {url = "https://www.google.com/", name = "Google"},
+    {url = "http://www.astrixinc.com/", name = "Astrix"}
+]
